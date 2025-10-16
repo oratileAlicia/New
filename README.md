@@ -45,7 +45,7 @@ The work readiness training introduced key interview preparation concepts, such 
 
 ## 3️⃣ Mock Interview  
 ![Mock Interview](Mock%20Interview.png)
-[![Mock Interview Video](Mock%20Interview%20Thumbnail.png)](Mock%20Interview%20Video.mp4)
+[![Mock Interview Video](Mock%20Interview%20Thumbnail.png)](Mock%20Interview%20Video.mov)
 
 ### **Evidence:**  
 We participated in an online mock interview session as part of the training. The questions included:  
