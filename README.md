@@ -16,7 +16,7 @@ The portfolio is divided into five sections: Business Communication, Interview S
 ---
 
 ## 1️⃣ Business Communication  
-
+![Business Communication](Business%20Communication.png)
 ### **Evidence:**  
 During my internship, I was required to submit monthly reports to my supervisor detailing my activities, challenges, and progress. These reports served as an opportunity to demonstrate my ability to write clearly, professionally, and in a structured format. They also showed my understanding of workplace communication standards.  
 
