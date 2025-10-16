@@ -17,6 +17,7 @@ The portfolio is divided into five sections: Business Communication, Interview S
 
 ## 1️⃣ Business Communication  
 ![Business Communication](Business%20Communication.png)
+
 ### **Evidence:**  
 During my internship, I was required to submit monthly reports to my supervisor detailing my activities, challenges, and progress. These reports served as an opportunity to demonstrate my ability to write clearly, professionally, and in a structured format. They also showed my understanding of workplace communication standards.  
 
@@ -29,6 +30,7 @@ During my internship, I was required to submit monthly reports to my supervisor 
 ---
 
 ## 2️⃣ Interview Skills  
+![Interview Skills](Interview%20Skills.png)
 
 ### **Evidence:**  
 The work readiness training introduced key interview preparation concepts, such as the importance of researching a company before an interview, how to answer “Tell me about yourself,” and the best way to discuss weaknesses professionally. I also learned about the CAR (Context, Action, Result) method for structuring interview responses.  
@@ -42,6 +44,8 @@ The work readiness training introduced key interview preparation concepts, such 
 ---
 
 ## 3️⃣ Mock Interview  
+![Mock Interview](Mock%20Interview.png)
+[![Mock Interview Video](Mock%20Interview%20Thumbnail.png)](Mock%20Interview%20video.mp4)
 
 ### **Evidence:**  
 We participated in an online mock interview session as part of the training. The questions included:  
@@ -59,7 +63,8 @@ We participated in an online mock interview session as part of the training. The
 
 ---
 
-## 4️⃣ Professional Networking  
+## 4️⃣ Professional Networking
+![Professional Networking](Professional%20Networking.png)
 
 ### **Evidence:**  
 We covered the fundamentals of professional networking, including its purpose, the meaning of networking events, the “golden rule” of networking, common mistakes to avoid, and the steps in creating a professional network. Although this section was theory-based, it gave me valuable insight into how networking can advance one’s career.  
@@ -73,6 +78,7 @@ We covered the fundamentals of professional networking, including its purpose, t
 ---
 
 ## 5️⃣ Workplace Etiquette  
+![Workplace Etiquette](Workplace%20Etiquette.png)
 
 ### **Evidence:**  
 We learned about appropriate workplace behavior, including responding professionally to rude emails, arriving early for meetings, handling confidential information, using personal devices responsibly, and following proper procedures when leaving work early.  
