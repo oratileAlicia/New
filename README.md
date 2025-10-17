@@ -19,16 +19,16 @@ This collection represents not only my academic progress but also my readiness t
 ---
 
 ## 1️⃣ Business Communication  
-![Business Communication](Business%20Communication.png)
-
-### **Evidence:**  
-During my internship, I was required to submit monthly reports to my supervisor detailing my activities, challenges, and progress. These reports served as an opportunity to demonstrate my ability to write clearly, professionally, and in a structured format. They also showed my understanding of workplace communication standards.  
-
 ### **Reflection (STAR Technique):**  
 **Situation:** During my internship, I needed to submit monthly reports summarizing my work and experiences.  
 **Task:** My challenge was maintaining a clear and professional structure in my writing.  
 **Action:** I applied the formal writing skills and structure principles I learned during the work readiness training. I paid attention to proper grammar, concise explanations, and logical flow.  
 **Result:** My reports became more organized and professional. I learned how to communicate effectively in a workplace setting and understood the importance of clarity and structure in business communication.  
+
+![Business Communication](Business%20Communication.png)
+
+### **Evidence:**  
+During my internship, I was required to submit monthly reports to my supervisor detailing my activities, challenges, and progress. These reports served as an opportunity to demonstrate my ability to write clearly, professionally, and in a structured format. They also showed my understanding of workplace communication standards.  
 
 ---
 
