@@ -9,9 +9,13 @@
 
 ## Introduction  
 
-This digital portfolio represents my learning and development throughout the Work Readiness Training programme at the Cape Peninsula University of Technology (CPUT). The purpose of this portfolio is to provide evidence of my participation, reflection, and growth in various professional skill areas that prepare me for the workplace environment.  
+📘 Introduction
 
-The portfolio is divided into five sections: Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette. Each section includes evidence of learning and a reflection using the STAR (Situation, Task, Action, Result) technique.  
+This digital portfolio serves as a comprehensive reflection of my learning and development during the Work Readiness Training program at the Cape Peninsula University of Technology (CPUT). The portfolio showcases the skills, knowledge, and experiences I have gained throughout the program, emphasizing my growth in communication, interview techniques, professional networking, and workplace etiquette.
+
+Through the activities, assessments, and mock exercises, I have enhanced my understanding of professional behavior and employability standards within the workplace. Each section of this portfolio presents evidence of my engagement with various training modules, accompanied by personal reflections using the STAR (Situation, Task, Action, Result) technique to demonstrate my ability to apply theoretical concepts to real-world scenarios.
+
+This collection represents not only my academic progress but also my readiness to transition effectively into professional environments, equipped with essential interpersonal, communication, and networking skills that contribute to both individual and organizational success.  
 
 ---
 
