@@ -34,7 +34,7 @@ Now, my emails are more polished and professional. I communicate with colleagues
 
 ### **Evidence:** 
 
-During the Work Readiness Training, I completed several activities focused on professional communication, including writing formal emails, correcting my CV, and learning proper workplace etiquette. These exercises helped me understand how communication shapes professionalism in the workplace.  
+During the Work Readiness Training, I completed several activities focused on professional communication, including writing formal emails and learning proper workplace etiquette. These exercises helped me understand how communication shapes professionalism in the workplace.  
 
 ![Business Communication](Business%20Communication.png)
 
