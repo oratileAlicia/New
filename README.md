@@ -1,9 +1,10 @@
-# Work Readiness Training Digital Portfolio  
-**Student Name:** Oratile Alicia Shole 
-**Institution:** Cape Peninsula University of Technology (CPUT)  
-**Course:** Work Readiness Training  
-**Programme:** IT – Communication Networks  
-**Year:** 2025  
+# 💼 Work Readiness Training Digital Portfolio
+
+**👤 Student Name:** Oratile Alicia Shole  
+**🏫 Institution:** Cape Peninsula University of Technology (CPUT)  
+**📘 Course:** Work Readiness Training  
+**💻 Programme:** ICT – Communication Networks  
+**📅 Year:** 2025  
 
 ---
 
