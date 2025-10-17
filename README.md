@@ -20,14 +20,21 @@ Each section includes evidence of my work and short reflections on how these exp
 
 ## 1️⃣ Business Communication  
 ### **Reflection (STAR Technique):**  
-**Situation:** During my internship, I needed to submit monthly reports summarizing my work and experiences.  
-**Task:** My challenge was maintaining a clear and professional structure in my writing.  
-**Action:** I applied the formal writing skills and structure principles I learned during the work readiness training. I paid attention to proper grammar, concise explanations, and logical flow.  
-**Result:** My reports became more organized and professional. I learned how to communicate effectively in a workplace setting and understood the importance of clarity and structure in business communication.  
+**Situation:**  
+When I first started working, I sometimes sent emails that were too casual or unclear.  
+
+**Task:**  
+I needed to learn how to communicate in a more professional and structured way to ensure my messages were understood and taken seriously.  
+
+**Action:**  
+Through the Business Communication module, I practiced writing formal emails, learned proper formatting and tone, and applied those skills in real work situations.  
+
+**Result:**  
+Now, my emails are more polished and professional. I communicate with colleagues more clearly and respectfully, which has improved teamwork and overall workplace interactions.
 
 ### **Evidence:** 
 
-During my internship, I was required to submit monthly reports to my supervisor detailing my activities, challenges, and progress. These reports served as an opportunity to demonstrate my ability to write clearly, professionally, and in a structured format. They also showed my understanding of workplace communication standards.  
+During the Work Readiness Training, I completed several activities focused on professional communication, including writing formal emails, correcting my CV, and learning proper workplace etiquette. These exercises helped me understand how communication shapes professionalism in the workplace.  
 
 ![Business Communication](Business%20Communication.png)
 
