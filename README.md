@@ -65,10 +65,19 @@ As part of the Work Readiness Training, I completed activities and theory module
 ## 3️⃣ Mock Interview  
 
 ### **Reflection (STAR Technique):**  
-**Situation:** I took part in an online mock interview where I had to answer various job-related and creative questions.  
-**Task:** I needed to maintain composure and deliver professional, confident responses.  
-**Action:** Although I was nervous, I focused on clear articulation and applied what I learned from the interview skills module.  
-**Result:** I realized that I tend to speak too quickly when anxious, which can affect clarity. This experience taught me the importance of controlling my pace and breathing during interviews to maintain professionalism.  
+
+**Situation:** 
+I took part in an online mock interview where I had to answer various job-related and creative questions. 
+
+**Task:** 
+I needed to maintain composure and deliver professional, confident responses.  
+
+**Action:** 
+Although I was nervous, I focused on clear articulation and applied what I learned from the interview skills module.  
+
+**Result:** 
+
+I realized that I tend to speak too quickly when anxious, which can affect clarity. This experience taught me the importance of controlling my pace and breathing during interviews to maintain professionalism.  
 
 ### **Evidence:**  
 We participated in an online mock interview session as part of the training. The questions included:  
@@ -86,6 +95,7 @@ We participated in an online mock interview session as part of the training. The
 
 ## 4️⃣ Professional Networking
 ### **Reflection (STAR Technique):**  
+
 **Situation:** I had limited knowledge of professional networking before the training.  
 **Task:** I needed to understand how networking could help me grow professionally and how to do it correctly.  
 **Action:** I studied the principles taught during the training, such as showing genuine interest, offering value, and maintaining professionalism when building connections.  
@@ -100,10 +110,16 @@ We covered the fundamentals of professional networking, including its purpose, t
 
 ## 5️⃣ Workplace Etiquette  
 ### **Reflection (STAR Technique):**  
-**Situation:** I was introduced to various scenarios involving workplace etiquette during the training.  
-**Task:** I needed to understand how to handle these situations in a professional manner.  
-**Action:** I learned to respond calmly and respectfully to difficult communication, maintain punctuality, and protect sensitive information.  
-**Result:** I developed a stronger understanding of how professionalism and respect contribute to a positive workplace culture. I now feel more prepared to adapt to professional environments and uphold ethical workplace standards.  
+**Situation:** 
+I was introduced to various scenarios involving workplace etiquette during the training.
+
+**Task:** 
+I needed to understand how to handle these situations in a professional manner. 
+
+**Action:** I learned to respond calmly and respectfully to difficult communication, maintain punctuality, and protect sensitive information. 
+
+**Result:** 
+I developed a stronger understanding of how professionalism and respect contribute to a positive workplace culture. I now feel more prepared to adapt to professional environments and uphold ethical workplace standards.  
 
 ### **Evidence:**  
 We learned about appropriate workplace behavior, including responding professionally to rude emails, arriving early for meetings, handling confidential information, using personal devices responsibly, and following proper procedures when leaving work early.  
