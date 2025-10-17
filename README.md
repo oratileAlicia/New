@@ -7,9 +7,7 @@
 
 ---
 
-## Introduction  
-
-📘 Introduction
+## 📘 Introduction  
 
 This digital portfolio serves as a comprehensive reflection of my learning and development during the Work Readiness Training program at the Cape Peninsula University of Technology (CPUT). The portfolio showcases the skills, knowledge, and experiences I have gained throughout the program, emphasizing my growth in communication, interview techniques, professional networking, and workplace etiquette.
 
