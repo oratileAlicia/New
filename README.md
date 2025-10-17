@@ -138,8 +138,10 @@ We learned about appropriate workplace behavior, including responding profession
 
 ## Conclusion  
 
-Through the Work Readiness Training programme, I gained valuable knowledge and practical skills that will assist me in my career as an IT professional. I learned how to communicate effectively, perform confidently in interviews, build professional networks, and conduct myself appropriately in workplace settings.  
+This Work Readiness Training has been an important step in preparing me for the professional world.  
+Through the different modules, I’ve learned how to communicate effectively, perform confidently in interviews, network with professionals, and maintain proper workplace etiquette.  
 
-This portfolio reflects not only the theoretical knowledge I acquired but also my personal growth and readiness to enter the professional world with confidence and competence.  
+These experiences have not only improved my professional skills but also helped me understand what it takes to grow in the IT field.  
+I now feel more confident and ready to apply my knowledge — both technical and professional — as I continue building my career in Information Technology and Communication Networks.  
 
 ---
