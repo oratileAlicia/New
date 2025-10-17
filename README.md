@@ -42,14 +42,21 @@ During the Work Readiness Training, I completed several activities focused on pr
 
 ## 2️⃣ Interview Skills  
 ### **Reflection (STAR Technique):**  
-**Situation:** I often found myself giving long, unfocused answers during mock interview practices.  
-**Task:** I needed to learn how to give clear, structured, and confident responses.  
-**Action:** I started applying the CAR method to keep my answers focused on what mattered most — the question.  
-**Result:** I became more confident and concise when answering interview questions. The CAR method helped me organize my thoughts and avoid unnecessary details, allowing me to communicate my strengths effectively.  
+**Situation:**  
+Before the training, I often felt unsure about how to answer interview questions clearly or confidently.  
+
+**Task:**  
+I needed to improve my interview techniques and learn how to present myself professionally during both virtual and in-person interviews.  
+
+**Action:**  
+Through the Interview Skills module, I learned about the CAR method and practiced answering questions in a more structured way. I also attended two real interviews, where I discovered that each company asks questions differently and realized the importance of researching the company beforehand.  
+
+**Result:**  
+These experiences helped me feel more confident and prepared for future interviews. I now know how to tailor my answers to match the company’s values and expectations while staying calm and focused throughout the process.
 
 ### **Evidence:**  
 
-The work readiness training introduced key interview preparation concepts, such as the importance of researching a company before an interview, how to answer “Tell me about yourself,” and the best way to discuss weaknesses professionally. I also learned about the CAR (Context, Action, Result) method for structuring interview responses.  
+As part of the Work Readiness Training, I completed activities and theory modules that focused on interview preparation and communication. We covered common interview questions, body language, and how to structure responses using the CAR (Context–Action–Result) method.
 
 ![Interview Skills](Interview%20Skills.png)
 
