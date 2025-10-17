@@ -96,10 +96,17 @@ We participated in an online mock interview session as part of the training. The
 ## 4️⃣ Professional Networking
 ### **Reflection (STAR Technique):**  
 
-**Situation:** I had limited knowledge of professional networking before the training.  
-**Task:** I needed to understand how networking could help me grow professionally and how to do it correctly.  
-**Action:** I studied the principles taught during the training, such as showing genuine interest, offering value, and maintaining professionalism when building connections.  
-**Result:** I now understand the importance of professional networking and plan to apply these principles by creating and developing my LinkedIn profile to connect with industry professionals in IT and networking.  
+**Situation:**  
+Before the training, I didn’t fully understand how important networking was for career growth or how to approach professionals in my field.  
+
+**Task:**  
+I needed to learn how to build and maintain meaningful connections that could help me grow in the IT industry.  
+
+**Action:**  
+Through the Professional Networking module, I gained insights into how networking events and online platforms can open doors to new opportunities. I also attended an AWS event, where I learned more about cloud computing and how I can pursue a career in that field.  
+
+**Result:**  
+This experience taught me the value of professional networking and how it can shape my career path. I now make an effort to connect with industry professionals, stay informed about new technologies, and actively engage in conversations that help me grow in IT.
 
 ### **Evidence:**  
 We covered the fundamentals of professional networking, including its purpose, the meaning of networking events, the “golden rule” of networking, common mistakes to avoid, and the steps in creating a professional network. Although this section was theory-based, it gave me valuable insight into how networking can advance one’s career.  
@@ -125,7 +132,7 @@ I developed a stronger understanding of how professionalism and respect contribu
 We learned about appropriate workplace behavior, including responding professionally to rude emails, arriving early for meetings, handling confidential information, using personal devices responsibly, and following proper procedures when leaving work early.  
 
 ![Workplace Etiquette](Workplace%20Etiquette.png)
-
+![Workplace Etiquette](aws.png)
 ---
 
 ## Conclusion  
