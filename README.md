@@ -12,7 +12,7 @@
 
 This portfolio highlights what I’ve learned and achieved during the Work Readiness Training programme at CPUT.  
 
-It showcases how I’ve developed my professional communication, interview, networking, and workplace skills — preparing me to step confidently into the IT industry.  
+It showcases how I’ve developed my professional communication, interview, networking, and workplace skills preparing me to step confidently into the IT industry.  
 
 Each section includes evidence of my work and short reflections on how these experiences have helped me grow both personally and professionally.
 
