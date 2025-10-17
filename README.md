@@ -142,6 +142,6 @@ This Work Readiness Training has been an important step in preparing me for the 
 Through the different modules, I’ve learned how to communicate effectively, perform confidently in interviews, network with professionals, and maintain proper workplace etiquette.  
 
 These experiences have not only improved my professional skills but also helped me understand what it takes to grow in the IT field.  
-I now feel more confident and ready to apply my knowledge — both technical and professional — as I continue building my career in Information Technology and Communication Networks.  
+I now feel more confident and ready to apply my knowledge both technical and professional as I continue building my career in Information Technology and Communication Networks.  
 
 ---
