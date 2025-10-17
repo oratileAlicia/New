@@ -112,6 +112,7 @@ This experience taught me the value of professional networking and how it can sh
 We covered the fundamentals of professional networking, including its purpose, the meaning of networking events, the “golden rule” of networking, common mistakes to avoid, and the steps in creating a professional network. Although this section was theory-based, it gave me valuable insight into how networking can advance one’s career.  
 
 ![Professional Networking](Professional%20Networking.png)
+![Workplace Etiquette](aws.jpeg)
 
 ---
 
@@ -132,7 +133,7 @@ I developed a stronger understanding of how professionalism and respect contribu
 We learned about appropriate workplace behavior, including responding professionally to rude emails, arriving early for meetings, handling confidential information, using personal devices responsibly, and following proper procedures when leaving work early.  
 
 ![Workplace Etiquette](Workplace%20Etiquette.png)
-![Workplace Etiquette](aws.png)
+
 ---
 
 ## Conclusion  
